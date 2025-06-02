@@ -1,0 +1,13 @@
+application/CorsConfig.class
+application/dto/PlatformAllocationDTO.class
+application/Platform.class
+Backend/Delete.class
+application/dto/PlatformDTO.class
+Backend/Allocation.class
+application/controller/RailwayController.class
+application/RailwaySystemApplication.class
+application/CorsConfig$1.class
+Backend/TextFields.class
+application/Train.class
+Backend/Models.class
+application/dto/TrainDTO.class
